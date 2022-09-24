@@ -1,0 +1,13 @@
+name: WynnBox
+main: plugin.Plugin
+version: 1.0
+api-version: 1.19
+authors:
+- byBackfish
+description: Wynncraft Sandbox Plugin
+depend:
+  - SmartInvs
+commands:
+  save:
+  get:
+  item:
